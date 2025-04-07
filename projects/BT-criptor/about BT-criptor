@@ -1,0 +1,23 @@
+🔐 BT-Criptor
+BT-Criptor is a lightweight encryption tool built in PowerShell with a modern GUI. It uses a proprietary system called Base Turing to securely encrypt and decrypt messages using customizable alphabets and a user-defined key. If the key is incorrect, the decryption will fail — ensuring robust protection.
+
+🔧 Features
+Encrypt and decrypt messages using the custom Base Turing algorithm
+
+Requires a message and a key — incorrect keys result in unusable output
+
+Supports custom alphabets for more flexibility
+
+Bilingual GUI: English and Spanish
+
+Clean, modern Windows Forms interface
+
+Fully portable .exe — no installation required
+
+⚙️ Requirements
+Windows 10/11 (64-bit)
+
+Admin privileges not required
+
+No internet connection or external dependencies
+
