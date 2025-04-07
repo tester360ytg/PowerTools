@@ -1,9 +1,5 @@
 CPU Affinity Tool Latest 
 
-@tester360ytg tester360ytg released this now
- tools
- dd70faa 
-CPU Affinity Tool
 A lightweight utility to manage the CPU affinity of all running processes on Windows.
 Developed by Lexus for Turing Software.
 
